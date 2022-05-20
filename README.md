@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Monjia
 #### Data Scientist and Artificial intelligence enthusiast
-![I am a Data Scientist and Artificial intelligence enthusiast](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsc_iVuZebTUkWmTXSG_wsmRnzMuf16JHvCw&usqp=CAU)
+![I am a Data Scientist and Artificial intelligence enthusiast](Banner.png)
 
 I'm a software engineer specialized in data science and artificial intelligence.I'm passionate about making projects in computer vision using machine learning and deep learning algorithms .Also i worked on projects in data analysis. Some technologies I enjoy working with include Tensorflow,Keras,MatplotLib,pandas,Numpy(Python libraries) and working with SQL,Power Bi,Excel to analyze data and visualize it to make insights and have good decisions.
 
